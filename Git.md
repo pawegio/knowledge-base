@@ -14,6 +14,14 @@ User config path:
 ~/.gitconfig
 ```
 
+#### Git log
+
+A nice short decorated log with graph:
+
+```
+git log --graph --oneline --decorate
+```
+
 #### Resetting git index after ignoring previously tracked files:
 
 ```
