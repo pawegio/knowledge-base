@@ -2,4 +2,4 @@
 
 ####  Precised Volume Control
 
-<kbd>CTRL</kbd> + <kbd>OPTION</kbd> + <kbd>VOLUME +/-</kbd>
+<kbd>SHIFT</kbd> + <kbd>OPTION</kbd> + <kbd>VOLUME +/-</kbd>
