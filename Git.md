@@ -1,5 +1,11 @@
 # Git
 
+#### Git branches list with tracking info
+
+```
+git branch -vv
+```
+
 #### Git config
 
 Checking:
