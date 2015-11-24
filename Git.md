@@ -40,3 +40,9 @@ git ls-tree --full-tree -r HEAD
 git rm -r --cached .
 git add .
 ```
+
+#### Adding files by glob pattern
+
+```
+git add "*.gradle"
+```
