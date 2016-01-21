@@ -47,6 +47,13 @@ git add .
 git add "*.gradle"
 ```
 
+#### Deleting pushed commit
+
+```
+git reset HEAD^ --hard
+git push <remote> -f
+```
+
 #### Git flow cheatsheet
 
 http://danielkummer.github.io/git-flow-cheatsheet/
