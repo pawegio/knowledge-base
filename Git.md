@@ -40,3 +40,28 @@ git ls-tree --full-tree -r HEAD
 git rm -r --cached .
 git add .
 ```
+
+#### Adding files by glob pattern
+
+```
+git add "*.gradle"
+```
+
+#### Deleting pushed commit
+
+```
+git reset HEAD^ --hard
+git push <remote> -f
+```
+
+#### Renaming recent commit
+
+```
+git commit --amend -m "New message"
+// if commit is pushed
+git push <remote> -f
+```
+
+#### Git flow cheatsheet
+
+http://danielkummer.github.io/git-flow-cheatsheet/
