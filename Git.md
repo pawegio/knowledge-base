@@ -65,3 +65,7 @@ git push <remote> -f
 #### Git flow cheatsheet
 
 http://danielkummer.github.io/git-flow-cheatsheet/
+
+#### Gitignore
+
+https://www.gitignore.io/
