@@ -11,3 +11,9 @@
 ```
 ./gradlew wrapper --gradle-version <version> --distribution-type [all|bin]
 ```
+
+#### Profiling with report in (build/reports/profile)
+
+```
+./gradlew app:assembleDebug --profile
+```
